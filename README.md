@@ -1,8 +1,8 @@
-Project Overview
+#Project Overview
 
 The Extract_arabic_texts_from_videos project is a Python-based tool designed to extract Arabic text from videos using Optical Character Recognition (OCR) techniques. This tool is useful for digitizing Arabic subtitles, extracting textual data from educational or informational videos, and assisting in Arabic text analysis.
 
-Features
+#Features
 
 Video Frame Extraction: Extracts frames from input videos at specified intervals.
 
@@ -12,7 +12,7 @@ Preprocessing for Better Accuracy: Applies image processing techniques to enhanc
 
 Export Options: Saves extracted text to a .txt or .csv file for further use.
 
-Requirements
+#Requirements
 
 To run this project, ensure you have the following installed:
 
